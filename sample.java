@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # This is a test file
 public static void main ()
 {
